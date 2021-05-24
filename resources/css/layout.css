@@ -1,0 +1,17 @@
+/*LAYOUT APP*/
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+.main-admin{
+  z-index: -5;
+  height: 300vh;
+  margin-top: 80px;
+  margin-left: 270px;
+}
+/*MENU SIDEBAR*/
+
+
+/*MENU NAV*/
+.dropdown-menu.dropdown-menu-right{
+  background-color: #3CAA34  !important;
+}
